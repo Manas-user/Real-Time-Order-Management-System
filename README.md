@@ -1,42 +1,21 @@
-\# Real-Time Order Management System
-
-
+Real-Time Order Management System
 
 A full-stack web application for managing real-time orders with frontend, backend, PostgreSQL, and RabbitMQ integration.
 
+Features
+Real-time order processing
+Product management
+Customer order tracking
+PostgreSQL database
+RabbitMQ support
+React + Vite frontend
+Node.js backend
 
-
-\## Features
-
-\- Real-time order processing
-
-\- Product management
-
-\- Customer order tracking
-
-\- PostgreSQL database
-
-\- RabbitMQ support
-
-\- React + Vite frontend
-
-\- Node.js backend
-
-
-
-\## Tech Stack
-
+Tech Stack
 Frontend: React, Vite  
-
 Backend: Node.js, Express  
-
 Database: PostgreSQL  
-
 Messaging: RabbitMQ
 
-
-
-\## Author
-
+Author
 Manas Chand
-
