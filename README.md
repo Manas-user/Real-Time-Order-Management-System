@@ -17,5 +17,3 @@ Backend: Node.js, Express
 Database: PostgreSQL  
 Messaging: RabbitMQ
 
-Author
-Manas Chand
